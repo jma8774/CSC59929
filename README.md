@@ -17,7 +17,7 @@ The files are ran via Juypter Notebook.
 
 >By choosing 4 features with a tree depth of 10, the machine was a lot faster in correcting it's errors and recognizing the rhombus with much more accuracy.
 
-![Rhombus Graph](https://i.gyazo.com/c1104cb560d96f9898428aa83b606f1e.png)
+![Rhombus Graph](https://i.gyazo.com/5053f241fc3451e41ff803f8dbd49ffa.png)
 
 >Finally, by choosing 5 features with a tree depth of 10, the machine was able to instantly recognize the solution with 100% accuracy for this particular problem.
 
