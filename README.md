@@ -3,7 +3,7 @@
 Collection of all assignments from CSC 59929 at City College with professor Erik Grimmelmann.
 
 
-The files are ran via Juypter Notebook but can be viewed on GitHub as well just by simply clicking on it.
+The .ipynb files are ran via Juypter Notebook but can be viewed on GitHub as well just by simply clicking on it.
 
 
 ### Showcase of learning a rhombus using decision trees with different amount of features
